@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious vindication of the Church of England shewing the nations happiness under the present government : being a seasonable answer to a late pamphlet entituled The naked truth / by a well-wisher to the nations happiness and prosperity.</title>
+            <author>Well-wisher to the nations happiness and prosperity.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59258</idno>
+            <idno type="STC">Wing S2619</idno>
+            <idno type="STC">ESTC R27008</idno>
+            <idno type="EEBO-CITATION">09606304</idno>
+            <idno type="OCLC">ocm 09606304</idno>
+            <idno type="VID">43812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious vindication of the Church of England shewing the nations happiness under the present government : being a seasonable answer to a late pamphlet entituled The naked truth / by a well-wisher to the nations happiness and prosperity.</title>
+                  <author>Well-wisher to the nations happiness and prosperity.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naked truth.</term>
+               <term>Church and state --  Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43812:1"/>
+            <pb n="1" facs="tcp:43812:1" rendition="simple:additions"/>
+            <head>A SERIOUS VINDICATION OF THE Church of England; SHEWING The Nations Happineſs Under the Preſent Government. BEING A Seaſonable Anſwer To a late PAMPHLET, Entituled, The Naked Truth.</head>
+            <byline>By a Well-wiſher to the Nations Happineſs and Proſperity.</byline>
+            <p>IN this ſad Diſſention and Diviſion of Religion; the Seers, (who are appointed to be the <hi>Watch- men of the Church,</hi>) can't but obſerve, that the <hi>Supplanters</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nderminers of the Church,</hi> (as is evidently ſeen) are daily (by <hi>Papiſm, Factions, Sedition</hi> and <hi>Schiſms,</hi>) digging down the <hi>Foundations of our Church and State,</hi> as it is now lawfully Eſta<g ref="char:EOLhyphen"/>bliſhed: And having by ſuch Inſtruments already deſtroy'd, ſo are they running fiercely on again to deſtroy all <hi>Publick Forms of Eccleſiaſtical Go<g ref="char:EOLhyphen"/>vernment,</hi> Diſcountenance an <hi>Excellent Liturgy,</hi> take off the very <hi>Hinges of <g ref="char:V">Ʋ</g>nity,</hi> Diſgrace the <hi>Articles of a Pure Religion,</hi> Pollute <hi>Publick Aſſem<g ref="char:EOLhyphen"/>blies,</hi> take away all <hi>Cognizance of Schiſm,</hi> by <hi>mingling all</hi> SECTS, and giving <hi>Countenance to That,</hi> against which our <hi>Power</hi> ought to ſtand upon
+<pb n="2" facs="tcp:43812:2"/>
+our Guard, againſt ſuch <hi>Rebellious, Self-Intereſted,</hi> and <hi>Bloody-minded People,</hi> as we have (more is the Pity,) in this our Kingdom. They, who have ſeen this our <hi>Jeruſalem</hi> ſo much involv'd in our late <hi>
+                  <g ref="char:V">Ʋ</g>nhappy <g ref="char:V">Ʋ</g>ncivil Wars,</hi> and liv'd under the <hi>Tirany of Traytors and <g ref="char:V">Ʋ</g>ſurpers,</hi> who <hi>Impriſon'd and Murder'd</hi> their Good KING of <hi>ever Bleſſed Memory;</hi> and <hi>Impriſon'd, Sequeſter'd, Plunder'd,</hi> and <hi>Beheaded</hi> our <hi>Nobility, Gentry</hi> and <hi>People,</hi> (for which many ſuffer to this Day;) And our now <hi>Dread Soveraign,</hi> and the <hi>Royal Family</hi> forc'd to flie for Refuge into <hi>ſtrange Nations;</hi> The <hi>Miniſters of the Church</hi> turn'd out, and <hi>Barbarouſly <g ref="char:V">Ʋ</g>ſed;</hi> And a Company of <hi>Per<g ref="char:EOLhyphen"/>verſe</hi> and <hi>Wicked Wretches,</hi> (who Preach'd nothing but <hi>Sedition and Re<g ref="char:EOLhyphen"/>bellion</hi> againſt the <hi>King</hi> and <hi>Government,</hi>) were put into their Places, and all this done under the Cloak of <hi>Religion,</hi> and being thereunto Inſpir'd by a <hi>Holy Zeal,</hi> (as they always pretend) And thus, in ſhort, were We <hi>inſlav'd</hi> under thoſe <hi>Holy Tirants,</hi> till God of his Infinite Mercy and Provi<g ref="char:EOLhyphen"/>dence brought home our <hi>Moſt Gracious King</hi> to his <hi>Lawful Throne</hi> again, and Reſtor'd the True Church to its former Proſperity, which God Pre<g ref="char:EOLhyphen"/>ſerve from all its <hi>Malitious Oppoſers,</hi> &amp;c. And ſhall we forget all this? and the Order of the Morning and Evening Sacrifices, and the Beauty of the <hi>Temple?</hi> and be Tempted to Neglect ſo <hi>Excellent a Miniſtration?</hi> and be content with any thing that is brought to us, though it be but the very <hi>Husks</hi> and <hi>Acorns</hi> of <hi>Prodigals</hi> and <hi>Swine,</hi> ſo They may get <hi>Money</hi> by it? We muſt now take care that the <hi>Young Men</hi> who were born under that <hi>Captivity,</hi> may be taught how to Worſhip the <hi>God of Iſrael</hi> after the man<g ref="char:EOLhyphen"/>ner of their Fore-fathers; For, never did the Excellency of <hi>Epiſcopal Go<g ref="char:EOLhyphen"/>vernment</hi> appear ſo Demonſtratively and Conſpicuouſly as now under their Conduct and Order; For We have a Church, ſo United, ſo Orderly, ſo Govern'd; A <hi>Religion</hi> ſo Settled; <hi>Articles</hi> ſo True, Sufficient, and Con<g ref="char:EOLhyphen"/>feſſed by all ſober Men; <hi>Canons,</hi> ſo Prudent, and ſo Obeyed; <hi>Devotions,</hi> ſo Regular, and ſo Conſtant; <hi>Sacraments,</hi> ſo Adorned, and Miniſtred; <hi>Churches,</hi> ſo Beautious and Religious; <hi>Circumstances,</hi> ſo Grave and Pru<g ref="char:EOLhyphen"/>dent, ſo Uſeful and Apt for Edification, that the Enemies of our Church, (who ſerve the <hi>POPE</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all things, and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt</hi> in ſome; who dare tranſgreſs an Inſtitution and Ordinance of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>RIST, but dare not break a Canon of the <hi>POPE,</hi>) did Deſpair of prevailing againſt Us and Truth; and know no Hopes, but by ſetting their Faces againſt Us, to Deſtroy the beſt of Governments; which if they could, then they would Triumph without having any Enemy: So <hi>Balaam</hi> the Son of <hi>Bozer,</hi> was ſent for to Curſe the People of the Lord, in hopes that the Son of <hi>Zippor</hi> might prevail againſt them that long proſper'd under the Conduct of <hi>Moſes</hi> and <hi>Aaron.</hi>
+            </p>
+            <p>But now inſtead of this Excellency of Condition, and Conſtitution of <hi>Religion,</hi> the People are Seduced, and fallen under the Harrows and Saws of <hi>Faction, Sedition, Railing, Deſpiſing, Drolling, Impertinent and Ig<g ref="char:EOLhyphen"/>norant, Self-Intereſting</hi> Solemn League and Covenanting <hi>Preachers,</hi> who think all <hi>Religion</hi> is a <hi>Sermon,</hi> and all <hi>Sermons</hi> ought to be <hi>Libels</hi> againſt <hi>Truth</hi> and <hi>Government;</hi> who think they are Saints, and none like them, when they are great <hi>Hypocrites,</hi> and <hi>Wolves</hi> in Sheeps-clothing, for by their
+<pb n="3" facs="tcp:43812:2"/>
+Fruits you may know them; who Expound Chapters, that the meaning may never be underſtood; and Pray, that they may be thought able to Talk, but not to hold their peace; Who ſpeak Evil of <hi>Dignities,</hi> Reſiſt the <hi>Power</hi> and <hi>Ordinances of God;</hi> who take up <hi>Religion</hi> for a Cloak, who Delude ſilly <hi>Women</hi> to Cheat their <hi>Husbands;</hi> who care not to obtain any thing but <hi>Wealth</hi> and <hi>Victory, Power,</hi> and <hi>Plunder;</hi> And all the People do reap the Fruits thereof that are apt to grow upon ſuch Crab-ſtocks: They grow <hi>Idle</hi> and <hi>Falſe, Hypocrites,</hi> and <hi>careleſs;</hi> They deny Themſelves no<g ref="char:EOLhyphen"/>thing that is <hi>pleaſant;</hi> They <hi>Deſpiſe Religion,</hi> Forget <hi>Government,</hi> and ſome of them never ſo much as think of going to Heaven; And if at any time they chance to do, They think to go thither in ſuch Paths, which all the Ages of the Primitive Church did give Men warning of, leſt they ſhould that way go to the Devil. But when Men have tryed all that they can, it is hoped they will return to the Excellency and Advantages of the true Chriſtian Religion as it is taught by the Church of <hi>England;</hi> For, by De<g ref="char:EOLhyphen"/>ſtroying it, no End can be ſerved, but of <hi>Sin</hi> and <hi>Folly, Faction,</hi> and <hi>Death Eternal:</hi> For beſides that, no Church that is an Enemy to this, does <hi>Wor<g ref="char:EOLhyphen"/>ſhip God</hi> in that Truth of <hi>Propoſitions,</hi> in that Unblamable and Pious Litur<g ref="char:EOLhyphen"/>gie, and in Preaching the Neceſſities of <hi>Holy Life,</hi> ſo much as the Church of <hi>England</hi> does. Beſides this, (I ſay,) it cannot be perſecuted by any Governour that underſtands his own Intereſt, unleſs He be firſt abuſed by <hi>Falſe Preachers,</hi> and then prefers his ſecret Opinion, before his Publick Advantage: For no Church in the World is ſo great a Friend to <hi>Loyalty</hi> and <hi>Obedience,</hi> as She, and her Siſters of the ſame Perſuaſion; She Prea<g ref="char:EOLhyphen"/>ches no <hi>Rebellion againſt her Prince,</hi> and is no Councellor, Contriver, or Projector of <hi>PLOTS</hi> and <hi>Conſpiracies,</hi> but a True Lover of <hi>Peace</hi> and <hi>Quietneſs,</hi> &amp;c. They that hate <hi>Biſhops,</hi> deſtroy <hi>Monarchy;</hi> And They that would Erect an <hi>Eccleſiaſtical Monarchy,</hi> muſt conſequently ſubject the <hi>Temporal</hi> to it; and both One and the Other would be Supreme in Con<g ref="char:EOLhyphen"/>ſciences: And they that Govern there, with an Opinion that in all things they ought to be attended to, will let their <hi>Prince</hi> G<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ern others, ſo long as he will be R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y Them. And certainly, for a <hi>Prince</hi> to per<g ref="char:EOLhyphen"/>ſecute the Eſtabliſhed <hi>Proteſtant Religion,</hi> is, as if a Phyſician ſhould en<g ref="char:EOLhyphen"/>deavour to Deſtroy all Medicaments, and Fathers kill their Sons, and the Maſters of Ceremonies Deſtroy all Formalities and Courtſhips; And, as if the <hi>Pope</hi> ſhould root out all <hi>Eccleſiaſtick State.</hi> Nothing ſo Combines with Government (if it be of Gods appointment,) as the <hi>Religion</hi> of the Church of <hi>England;</hi> becauſe nothing doth more adhere to the <hi>Word of God,</hi> and diſ-regard the Crafty Advantages of the World. If any Man ſhall not decline to try his Title by the <hi>Word of God,</hi> It is certain, there is not in the World a better Guard for it than the <hi>True Proteſtant Religion,</hi> as it is taught in our Church; For it is <hi>Via Tuta,</hi> the ſafe way: And certain it is, that in that day we ſhall prevail againſt all <hi>Gods Enemies</hi> and Ours, not in the Purchaces and Riches of the World, but in the Rewards and Returns of Holineſs and Patience, Faith and Charity; For by theſe we Worſhip God, and againſt this Intereſt we cannot ſerve any thing elſe. And there is none can leave our Communion, or have Reaſon to reprove
+<pb n="4" facs="tcp:43812:3"/>
+our Doctrine, unleſs they be abus'd with Prejudice, and ſuck in Venom with their Milk: And there is a more ſolid Comfort, and Material ſupport to a Chriſtian Spirit in <hi>one Article of Faith,</hi> in <hi>one Period of the Lords Prayer,</hi> in <hi>one Holy Leſſon,</hi> than in all the Diſputes of the Impertinent Rabble, who take more pains to prove there is no <hi>Purgatory,</hi> than to perſwade Men to avoid <hi>Hell:</hi> And that a plain <hi>Catechiſm</hi> can more Inſtruct a Soul, than the whole days prate which ſome uſually ſpit forth, to bid them <hi>get Chriſt,</hi> and perſecute his Servants.</p>
+            <p>It will not be unneceſſary to tell you in part, (as I did at the begin<g ref="char:EOLhyphen"/>ning, how our Kingdoms were Ruined, as is too well known,) how our Divines were perſecuted, how our Churches were Demoliſh'd, and made Stables by Sacrilegious <hi>Rebels</hi> and <hi>Tirants;</hi> And it's evidently ſeen at this day, That there are abundance of ſuch Saints among us, (and if not timely prevented,) may play the Devils Game over again: For have they not began already to Rebel in <hi>Scotland?</hi> They killed in a moſt Bar<g ref="char:EOLhyphen"/>barous manner the Arch-biſhop of St. <hi>Andrews,</hi> &amp;c. What Impious, De<g ref="char:EOLhyphen"/>viliſh and Helliſh <hi>Declarations,</hi> and <hi>Covenants</hi> lately by them openly pro<g ref="char:EOLhyphen"/>claimed? How many <hi>Conventicles</hi> are there contrary to Law? How are our Orthodox Divines moſt ſcurrilouſly ſlander'd by them? How bold and Audacious are they, daily to publiſh Anſwers? <hi>Joque, Droll, Libel</hi> and <hi>Aſperſe</hi> our Able Divines? How many go under the notion of <hi>Proteſtants,</hi> (for in Diſcourſe they ſay they are ſo,) when really they are none, For you ſhall have them all the week Railing againſt the preſent <hi>Government,</hi> frighten the People into Fears and Jealouſies at <hi>Coffee-houſes, Booksellers ſhops, Private Caballs</hi> and <hi>Factions Clubs</hi> up and down the Town; And on Sunday they'l run to a Conventicle, and there exhort their ignorant Con<g ref="char:EOLhyphen"/>gregation to do the like, <hi>&amp;c.</hi> Much more might be ſaid; But I ſhall con<g ref="char:EOLhyphen"/>clude, with my hearty Prayers that all our Differences may be compoſed, and that we may be United in one True Church, and that God would ſave and Defend Us from the Hands of all our Enemies, and Infatuate their wicked Deſigns; That we may ſtudy Peace, and not Wars, Strife, Confu<g ref="char:EOLhyphen"/>ſion and Diſcention, which lead to the ways <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtruction: That God would Bleſs, Preſerve, Defend and Keep His Sacred Majeſty from the Hands of all his Enemies, and to give him Victory over them, and ſend him a Long, Happy and Proſperous Reign over Us; And that We may live in Gods Fear, and in Duty and Obedience to Our <hi>King:</hi> And God bleſs the Great Councel of the Nation the <hi>Parliament;</hi> And when they ſhall be Aſſembled, to Direct and Proſper all their Conſultations to the Advancement of Gods Glory, the Safety, Honour and Welfare of our Dread Soveraign, and Kingdoms, That Peace and Happineſs, Truth and Juſtice, Religion and Piety, may be Eſtabliſhed amongſt Us to all Gene<g ref="char:EOLhyphen"/>rations; And let all True Subjects with me, ſay, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Banks,</hi> Anno Domini, 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
